@@ -60,6 +60,7 @@ This project is a real-time emotion detection application that uses a deep learn
 
 ## Usage
 
+[Click Here](https://huggingface.co/spaces/RashaadAhmad/Emotion-Detection) to try it out.
 To start the application and its web interface, run the following command:
 
 ```bash
