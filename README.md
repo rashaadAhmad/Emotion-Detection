@@ -15,6 +15,11 @@ This project is a real-time emotion detection application that uses a deep learn
   - Surprise
 - **Web Interface**: A simple and intuitive web interface powered by Gradio to upload images and view the results.
 
+## Repository
+
+- **GitHub:** [https://github.com/rashaadAhmad/Emotion-Detection](https://github.com/rashaadAhmad/Emotion-Detection)
+- **Hugging Face:** [https://huggingface.co/RashaadAhmad/Emotion-Detection/](https://huggingface.co/RashaadAhmad/Emotion-Detection/)
+
 ## Project Structure
 
 ```
@@ -37,7 +42,8 @@ This project is a real-time emotion detection application that uses a deep learn
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/rashaadAhmad/Emotion-Detection.git # or
+    git clone https://huggingface.co/RashaadAhmad/Emotion-Detection
     cd emotion-detection
     ```
 
